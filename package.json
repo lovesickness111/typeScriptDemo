@@ -1,0 +1,14 @@
+{
+  "name": "typescriptes6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
